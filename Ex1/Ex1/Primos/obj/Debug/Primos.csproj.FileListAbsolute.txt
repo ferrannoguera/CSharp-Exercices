@@ -1,0 +1,5 @@
+F:\Visual Studio\Primos\Primos\Primos\bin\Debug\Primos.dll
+F:\Visual Studio\Primos\Primos\Primos\bin\Debug\Primos.pdb
+F:\Visual Studio\Primos\Primos\Primos\obj\Debug\Primos.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Primos\Primos\Primos\obj\Debug\Primos.dll
+F:\Visual Studio\Primos\Primos\Primos\obj\Debug\Primos.pdb

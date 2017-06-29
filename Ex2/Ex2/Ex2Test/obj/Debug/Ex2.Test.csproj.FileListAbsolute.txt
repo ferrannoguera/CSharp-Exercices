@@ -1,0 +1,8 @@
+F:\Visual Studio\Ex2\Ex2\Ex2Test\bin\Debug\Ex2Test.dll
+F:\Visual Studio\Ex2\Ex2\Ex2Test\bin\Debug\Ex2Test.pdb
+F:\Visual Studio\Ex2\Ex2\Ex2Test\bin\Debug\Ex2.dll
+F:\Visual Studio\Ex2\Ex2\Ex2Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Visual Studio\Ex2\Ex2\Ex2Test\bin\Debug\Ex2.pdb
+F:\Visual Studio\Ex2\Ex2\Ex2Test\obj\Debug\Ex2.Test.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Ex2\Ex2\Ex2Test\obj\Debug\Ex2Test.dll
+F:\Visual Studio\Ex2\Ex2\Ex2Test\obj\Debug\Ex2Test.pdb

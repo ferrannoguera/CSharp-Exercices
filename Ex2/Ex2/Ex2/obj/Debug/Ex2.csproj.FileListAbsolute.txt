@@ -1,0 +1,5 @@
+F:\Visual Studio\Ex2\Ex2\Ex2\bin\Debug\Ex2.dll
+F:\Visual Studio\Ex2\Ex2\Ex2\bin\Debug\Ex2.pdb
+F:\Visual Studio\Ex2\Ex2\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Ex2\Ex2\Ex2\obj\Debug\Ex2.dll
+F:\Visual Studio\Ex2\Ex2\Ex2\obj\Debug\Ex2.pdb

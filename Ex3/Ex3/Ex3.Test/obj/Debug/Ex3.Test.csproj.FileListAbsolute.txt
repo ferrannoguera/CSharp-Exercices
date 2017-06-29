@@ -1,0 +1,10 @@
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\bin\Debug\Ex3.Test.dll
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\bin\Debug\Ex3.Test.pdb
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\bin\Debug\Ex3.dll
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\bin\Debug\itextsharp.dll
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\bin\Debug\Ex3.pdb
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\obj\Debug\Ex3.Test.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\obj\Debug\Ex3.Test.dll
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\obj\Debug\Ex3.Test.pdb
+F:\Visual Studio\Ex3\Ex3\Ex3.Test\bin\Debug\itextsharp.xmlworker.dll

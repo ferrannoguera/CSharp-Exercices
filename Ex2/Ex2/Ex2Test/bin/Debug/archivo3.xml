@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<line>
+  <Product SupplierSKU="C07" CustomerSKU="0045610000206" Item="COMISION" Qty="1.00" MU="Unidades" UP="-13.18" Total="-13.18">
+    <Taxes>
+      <Tax Type="IVA" Rate="7.00" Amount="-0.92" />
+    </Taxes>
+    <ServicesData>
+      <ServiceData SupplierClientID="Ref1ClientePruebaTuristico" SupplierID="C400" ClientSupplierID="" SupplierName="Estab Prov Prueba Turistico 1" Pax="CRC3" BeginDate="2010-01-11" EndDate="2010-01-12" PaxNumber="1" AdultsNumber="1" />
+    </ServicesData>
+  </Product>
+</line>

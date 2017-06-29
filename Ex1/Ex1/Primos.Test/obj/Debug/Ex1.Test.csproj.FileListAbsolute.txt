@@ -1,0 +1,8 @@
+F:\Visual Studio\Ex1\Ex1\Primos.Test\bin\Debug\Primos.Test.dll
+F:\Visual Studio\Ex1\Ex1\Primos.Test\bin\Debug\Primos.Test.pdb
+F:\Visual Studio\Ex1\Ex1\Primos.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Visual Studio\Ex1\Ex1\Primos.Test\bin\Debug\Primos.dll
+F:\Visual Studio\Ex1\Ex1\Primos.Test\bin\Debug\Primos.pdb
+F:\Visual Studio\Ex1\Ex1\Primos.Test\obj\Debug\Ex1.Test.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Ex1\Ex1\Primos.Test\obj\Debug\Primos.Test.dll
+F:\Visual Studio\Ex1\Ex1\Primos.Test\obj\Debug\Primos.Test.pdb
